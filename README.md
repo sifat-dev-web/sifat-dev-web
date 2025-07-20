@@ -1,6 +1,6 @@
 # Hi 👋, I'm Md Sifat
 
-🎓
+🎓To become a skilled software engineer and contribute to cutting-edge technologies 
 
 ## 🛠️ Tech Stack:
 
@@ -65,6 +65,4 @@ NLP-based SMS classifier using a neural network model to filter spam messages fr
 
 ## 🎯 Goal:
 
-To become a skilled software engineer and contribute to cutting-edge technologies at top Silicon Valley companies like (Google, Microsoft, NVIDIA, Meta, Oracle, Cisco, Intel, and Apple).
-
----
+To become a skilled software engineer and contribute to cutting-edge technologies 
