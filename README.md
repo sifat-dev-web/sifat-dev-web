@@ -1,9 +1,6 @@
 # Hi 👋, I'm Md Sifat
 
-🎓 Future BS in CS Student @ CSU East Bay  
-🚀 Aspiring Software Engineer at Silicon Valley Tech Giants — (Google, Microsoft, NVIDIA, Meta, Oracle, Cisco, Intel, Apple)
-
----
+🎓
 
 ## 🛠️ Tech Stack:
 
